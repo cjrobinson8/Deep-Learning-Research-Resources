@@ -1,11 +1,11 @@
 # Deep Learning Research Resources
-Resources for researchers new to deep learning.
+General and Pytorch resources for researchers new to deep learning.
 
 ## General deep learning:
 
-* http://cs231n.stanford.edu/
-* https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
-* https://www.deeplearningbook.org/
+* Stanford University Course - Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/
+* NYU Deep Learning Course: https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI
+* Deep Learning Book by Ian Goodfellow, Yoshua Bengio and Aaron Courville: https://www.deeplearningbook.org/
  
 ## Pytorch specific ‘bible’:
 
@@ -14,4 +14,3 @@ Resources for researchers new to deep learning.
 ## Getting started with segmentation:
 
 * Segmentation Models Pytorch - https://github.com/qubvel/segmentation_models.pytorch
-* Segmentation Models Tensorflow - https://github.com/qubvel/segmentation_models
